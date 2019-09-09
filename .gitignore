@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/resources/test.tfrecords
+/resources/train.tfrecords
+ranking_model_dir
